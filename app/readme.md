@@ -51,6 +51,3 @@ The above might work for Docker on Windows
 
 - `http://localhost:5000/swagger`
 
-## GitHub Actions build
-
-![Build and Test](https://github.com/gothinkster/aspnetcore-realworld-example-app/workflows/Build%20and%20Test/badge.svg)
